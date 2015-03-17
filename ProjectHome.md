@@ -1,0 +1,1 @@
+Due to limited availability of free kannada unicode fonts, typography in kannada is difficult. The aim of the project is to create and distribute free unicode kannada fonts which will encourage people to use and develop more kannada software.
